@@ -105,7 +105,8 @@ PRODUCT_PACKAGES += \
 # Nos
 PRODUCT_PACKAGES += \
     libkeymaster4support.vendor:64 \
-    libkeymaster4_1support.vendor:64
+    libkeymaster4_1support.vendor:64 \
+    libcrypto_shim
 
 # Json
 PRODUCT_PACKAGES += \
